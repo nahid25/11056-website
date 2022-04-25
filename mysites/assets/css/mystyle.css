@@ -55,6 +55,17 @@ html {
     text-align: center;
 }
 
+.header-home h1 {
+    font-size: 50px;
+    font-weight: bold;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.header-home span {
+    font-size: 16px;
+    font-weight: normal;
+}
+
 
 /* Responsive navigation */
 
@@ -192,4 +203,38 @@ ul.nav-bar li a:hover:not(.active) {
     [class*="col-"] {
         width: 100%;
     }
+}
+
+
+/* To center the welcome message in inex.html */
+
+.center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+
+/* Festival images */
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.festival-image {
+    width: 60%;
+    height: auto;
+    background-color: red;
+}
+
+.festival-caption {
+    width: 40%;
+    height: auto;
+    background-color: blue;
 }
