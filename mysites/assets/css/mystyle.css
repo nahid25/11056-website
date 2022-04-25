@@ -23,12 +23,44 @@ html {
 .header {
     background-color: #333;
     color: #ffffff;
-    /* background-image: url("../images/HQ+landscape+ducks+dawn.jpeg"); */
     height: 100vh;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.festivals-header {
+    position: absolute;
+    font-size: 50px;
+    margin-bottom: 150px;
+}
+
+.header-home {
+    background-color: #333;
+    color: #ffffff;
+    background-image: url("../images/HQ+landscape+ducks+dawn.jpeg");
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
 
 
 /* Responsive navigation */
+
+.nav-bar {
+    position: absolute;
+}
 
 ul.nav-bar {
     list-style-type: none;
@@ -49,12 +81,17 @@ ul.nav-bar li a {
     text-decoration: none;
 }
 
-ul.nav-bar li a:hover {
+
+/* ul.nav-bar li a:hover {
     color: #31393C;
+} */
+
+ul.nav-bar li a:hover:not(.active) {
+    color: #111;
 }
 
-ul.nav-bar li.right {
-    float: right;
+.active {
+    color: #aa0404;
 }
 
 @media screen and (max-width: 600px) {
