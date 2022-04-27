@@ -14,7 +14,8 @@
 }
 
 html {
-    font-family: "Lucida Sans", sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
 }
 
 
@@ -40,37 +41,64 @@ html {
     margin-bottom: 150px;
 }
 
-.header-home {
-    background-color: #333;
-    color: #ffffff;
+.background {
+    height: 92vh;
+    background-color: black;
+    color: white;
+    position: relative;
+}
+
+.background-image {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    top: 0;
     background-image: url("../images/HQ+landscape+ducks+dawn.jpeg");
-    height: 100vh;
-    background-size: cover;
     background-position: center;
-    margin-bottom: 50px;
+    background-size: cover;
+    opacity: 0.75;
+    background-attachment: fixed;
+}
+
+.background h1 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    font-size: 50px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    text-align: center;
 }
 
-.header-home h1 {
-    font-size: 50px;
-    font-weight: bold;
-    background-color: rgba(0, 0, 0, 0.5);
-}
-
-.header-home span {
-    font-size: 16px;
-    font-weight: normal;
+.background h1 span {
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    top: 49%;
 }
 
 
 /* Responsive navigation */
 
 .nav-bar {
-    position: absolute;
+    position: relative;
+    /* Font for the navigation Lato */
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    height: 6vh;
+}
+
+.nav-title {
+    /* Font for the navigation Lato */
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 30px;
 }
 
 ul.nav-bar {
@@ -87,18 +115,13 @@ ul.nav-bar li {
 
 ul.nav-bar li a {
     display: block;
-    color: white;
+    color: black;
     text-align: center;
     text-decoration: none;
 }
 
-
-/* ul.nav-bar li a:hover {
-    color: #31393C;
-} */
-
 ul.nav-bar li a:hover:not(.active) {
-    color: #111;
+    color: rgba(67, 67, 67, 0.294);
 }
 
 .active {
