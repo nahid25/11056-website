@@ -2,6 +2,34 @@
     box-sizing: border-box;
 }
 
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: xx-large;
+    color: #333;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: medium;
+    color: rgb(25, 25, 25);
+}
+
+.button {
+    background-color: rgb(0, 0, 0);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 2px 2px 2px 2px;
+    cursor: pointer;
+}
+
 .row::after {
     content: "";
     clear: both;
@@ -57,7 +85,7 @@ html {
     background-image: url("../images/HQ+landscape+ducks+dawn.jpeg");
     background-position: center;
     background-size: cover;
-    opacity: 0.75;
+    opacity: 0.85;
     background-attachment: fixed;
 }
 
@@ -67,7 +95,9 @@ html {
     width: 100%;
     font-family: 'Roboto', sans-serif;
     font-weight: 900;
-    font-size: 50px;
+    font-size: 80px;
+    top: -10%;
+    color: white;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -240,6 +270,16 @@ ul.nav-bar li a:hover:not(.active) {
 }
 
 
+/* Welcome message after welcome background - Index Page */
+
+.fourthEditionPlaceHolder {
+    width: 60%;
+    height: 20%;
+    margin-left: 20%;
+    margin-top: 10%;
+}
+
+
 /* Festival images */
 
 .left {
@@ -250,14 +290,48 @@ ul.nav-bar li a:hover:not(.active) {
     float: right;
 }
 
-.festival-image {
+.festival-image-01 {
+    margin-top: 10%;
     width: 60%;
-    height: auto;
-    background-color: red;
+    background-image: url("../images/20161106_Contour556_0146.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 60vh;
+    margin-bottom: 10%;
+}
+
+.festival-image-02 {
+    margin-top: 10%;
+    width: 60%;
+    background-image: url("../images/Ventilate_working_image.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 50vh;
+    margin-bottom: 10%;
+}
+
+.festival-image-03 {
+    margin-top: 10%;
+    width: 60%;
+    background-image: url("../images/20161108_Contour556_0087.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 60vh;
+    margin-bottom: 10%;
 }
 
 .festival-caption {
     width: 40%;
     height: auto;
-    background-color: blue;
+    padding: 50px;
+    margin-top: 10%;
+}
+
+.normal {
+    font-weight: 400 !important;
+    margin-bottom: 50px;
+}
+
+.festival-caption p {
+    font-weight: 300;
 }
