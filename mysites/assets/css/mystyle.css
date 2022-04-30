@@ -18,6 +18,7 @@ p {
 
 .button {
     background-color: rgb(0, 0, 0);
+    width: 180px;
     border: none;
     color: white;
     padding: 15px 32px;
@@ -91,25 +92,32 @@ html {
 
 .background h1 {
     position: absolute;
-    height: 100%;
+    height: 50%;
     width: 100%;
     font-family: 'Roboto', sans-serif;
     font-weight: 900;
     font-size: 80px;
-    top: -10%;
+    top: -6%;
     color: white;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: end;
     align-items: center;
 }
 
-.background h1 span {
-    position: absolute;
-    font-family: 'Roboto', sans-serif;
+.background h3 {
+    position: relative;
+    height: 50%;
+    width: 100%;
+    font-family: 'Lato', sans-serif;
     font-weight: 400;
     font-size: 30px;
-    top: 49%;
+    top: 50%;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: top;
+    align-items: center;
 }
 
 
@@ -334,4 +342,44 @@ ul.nav-bar li a:hover:not(.active) {
 
 .festival-caption p {
     font-weight: 300;
+}
+
+#bg {
+    height: 120vh;
+}
+
+#bg .background-image {
+    background-image: url("../images/Contour+556-140221-Web-5.jpeg") !important;
+}
+
+.bg_sponser {
+    position: absolute;
+    width: 50%;
+    height: 120vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    left: 2.5%;
+}
+
+.bg_sponser h1 {
+    font-size: 50px;
+    width: 60%;
+    height: auto;
+    top: 20vh;
+}
+
+.bg_sponser a {
+    margin-bottom: 5%;
+}
+
+.bg_sponser p {
+    color: white;
+    font-size: small;
+}
+
+.bg_sponser img {
+    margin-top: 5%;
+    width: 100%;
+    margin-bottom: 5%;
 }
