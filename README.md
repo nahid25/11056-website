@@ -56,5 +56,14 @@ The following design pattern was chosen for the about us page. This includes ima
 
 At the end of the page, we’ve added contact form for the user to get in touch with the us.
 
+**Skeleton Structure of About us, Team, Donate**
+![image](https://user-images.githubusercontent.com/30599954/166451665-41eb8df8-39fd-4972-9d81-a94abf8ae437.png)
+The sketch above is used to show a pattern. I’ve applied this pattern to various pages. Such donate, contact and team. The reason to use a structure like this is as follows; it keeps the user's attention without getting distracted. The website has consistency. Also, this works with our modern and clean theme. Which is very important to showcase the artwork. 
+
+Here is how the following pattern has been applied to the website. In the beginning, it welcomes the user with a title and a subtitle. Then a brief description of the page. It is nice and neatly centred in the middle. With the same consistent font and colours.
+Then body focuses on the main information regarding the site. It is also centred and used bold text and title text. As needed to gain the attention of the user while delivering the important information as fast as possible. Also included visual representation as images. And form for the users to complete. 
+
+At end of our page, it included a clean and modern footer. Sharing the link to social media.
+
 
 
