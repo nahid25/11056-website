@@ -42,11 +42,6 @@ Once the user scrolls welcome background. They will be met with the information 
 ![image](https://user-images.githubusercontent.com/30599954/166449106-8ab5c010-9c0a-4781-a629-c60879829e4e.png)
 This section of the main page is supposed to show all the artwork from 3 years. Side by side so the user can go to those years and explore the artwork. It includes an image and a read more button. However, I've gone with a jig jag pattern of image and text. With a read more button.
 
-**The chosen design methodology**
-![image](https://user-images.githubusercontent.com/30599954/166449520-41b49260-3152-4dd7-8945-9a3afdb6aa85.png)
-
-This section of the main page is supposed to show all the artwork from 3 years. Side by side so the user can go to those years and explore the artwork. It includes an image and a read more button. However, I've gone with a jig jag pattern of image and text. With a read more button.
-
 **Sponsor artwork.**
 ![image](https://user-images.githubusercontent.com/30599954/166449241-c06cf5c9-4a82-44c7-a410-f52f2c411a11.png)
 It includes artwork with big background and parallax scrolling. With title and sponsor image and information and read more button.
@@ -55,7 +50,11 @@ It includes artwork with big background and parallax scrolling. With title and s
 ![image](https://user-images.githubusercontent.com/30599954/166449332-b114a46b-eb48-4c99-b2eb-f4a3713cd29d.png)
 At the bottom of the home page. I’ve included the commissions and ongoing projects. This section includes two images on one side, occupying the space and size. With helpful information about the project including header and more information. 
 
+**About us, Team**
+The following design pattern was chosen for the about us page. This includes images of all the team members and the information about them on the side. On the beginning page, we’ve welcomed the user with the necessary information, then the site introduces the user to the team. 
+![image](https://user-images.githubusercontent.com/30599954/166450300-1de1b12a-c7f5-4435-8201-0d29845275fd.png)
 
+At the end of the page, we’ve added contact form for the user to get in touch with the us.
 
 
 
