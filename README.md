@@ -14,3 +14,18 @@ For a website, the welcome page is very crucial as it will be the first thing th
 Here are my sketches for navigating the website. I’ve chosen the second concept without any border highlighting the navigation menu. The second navigation doesn’t have any border thus, giving us a very clean and modern navigation menu for the audience. The navigation includes the festival page, news page with a drop-down of covid-19 information, about us drop-down people page, and city commission dropdown with all the other projects. 
 
 However, upon further investigation, I felt the website only needed to add the following sites on the navigation. Festivals including all the years inside the main page, news including provide-19 and removing covid-19 from the navigation. About us removing people from navigation and merging them into one page. City commissions removing all the drop-down menus. And including all the information on the same page.
+
+**Website sitemap**
+![image](https://user-images.githubusercontent.com/30599954/166445048-0b91e2d8-297c-4983-9aac-44ca6cc9d1fd.png)
+Here is a sitemap showing all the ways pages will be connected. This is a very important concept. When we can do this part correctly we can get the most attention from the audience. Tho, this information is hidden from the user it is very important. I will demonstrate the site map of this website. 
+
+Site map 01 - News and Covid-19 page will be merged, it is done so the user doesn’t get frustrated by going to many links. Yet, able to get the necessary information from the same page.
+
+Site map 02- Festivals page includes all the artwork of every year on one page. To minimise a lot of travelling between pages. 
+
+Site map 03 - Donate page is allocated by itself to get a lot of attention to the donation. Because the audience donation makes this art possible. Thus, I’ve provided the donation with its page.
+
+Site map 04- About us and people page conveys a lot of relatable information thus, they’ve been merged for convinces.
+
+Site map 05 - This site map demonstrates all the projects they are working on. Undercity commissions links and on the page it redirects other artists like Alison Adler.
+
