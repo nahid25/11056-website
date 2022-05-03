@@ -45,18 +45,32 @@ label {
 }
 
 .button {
-    background-color: rgb(0, 0, 0);
-    width: 180px;
-    border: none;
+    background-color: #333;
     color: white;
-    padding: 15px 32px;
-    text-align: center;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
     text-decoration: none;
     display: inline-block;
+    padding: 15px 32px;
     font-size: 16px;
-    margin: 4px 2px;
-    border-radius: 2px 2px 2px 2px;
-    cursor: pointer;
+    text-align: center;
+}
+
+#sponser-button {
+    width: fit-content;
+    background-color: whitesmoke;
+    color: black;
+}
+
+#sponser-button:hover {
+    background-color: rgba(207, 205, 205, 0.844);
+    color: #000;
+}
+
+.button:hover {
+    background-color: #000000;
 }
 
 .row::after {
@@ -641,4 +655,46 @@ textarea {
     width: 50%;
     margin-left: 25%;
     margin-top: 10%;
+}
+
+
+/* *********************** 
+City commissions
+************************* */
+
+#project-outline h3 {
+    margin-left: 10%;
+}
+
+#project-outline p {
+    margin-left: 5%;
+}
+
+#project-outline ul {
+    margin-left: 10%;
+}
+
+#project-outline img {
+    width: 100%;
+}
+
+#project-commissions {
+    position: relative;
+    margin-left: 10%;
+}
+
+#project-commissions .col-6 {
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+#project-commissions .col-6 .title {
+    font-weight: 300;
+}
+
+#project-commissions img {
+    width: 100%;
 }
