@@ -29,3 +29,6 @@ Site map 04- About us and people page conveys a lot of relatable information thu
 
 Site map 05 - This site map demonstrates all the projects they are working on. Undercity commissions links and on the page it redirects other artists like Alison Adler.
 
+**Website Footer.**
+![image](https://user-images.githubusercontent.com/30599954/166445594-39192617-1965-421a-8aab-a513f476392c.png)
+In order to comply with the theme of this page. I’ve chosen very simple and modern footer. The footer includes all the social media links and a copyright information about a made up company.
