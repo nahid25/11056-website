@@ -42,6 +42,11 @@ Once the user scrolls welcome background. They will be met with the information 
 ![image](https://user-images.githubusercontent.com/30599954/166449106-8ab5c010-9c0a-4781-a629-c60879829e4e.png)
 This section of the main page is supposed to show all the artwork from 3 years. Side by side so the user can go to those years and explore the artwork. It includes an image and a read more button. However, I've gone with a jig jag pattern of image and text. With a read more button.
 
+**The chosen design methodology**
+![image](https://user-images.githubusercontent.com/30599954/166449520-41b49260-3152-4dd7-8945-9a3afdb6aa85.png)
+
+This section of the main page is supposed to show all the artwork from 3 years. Side by side so the user can go to those years and explore the artwork. It includes an image and a read more button. However, I've gone with a jig jag pattern of image and text. With a read more button.
+
 **Sponsor artwork.**
 ![image](https://user-images.githubusercontent.com/30599954/166449241-c06cf5c9-4a82-44c7-a410-f52f2c411a11.png)
 It includes artwork with big background and parallax scrolling. With title and sponsor image and information and read more button.
