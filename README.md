@@ -2,7 +2,7 @@
 Reflection on Project 1: Capturing Canberra's Artistic Culture through Web Design
 In this detailed reflection, I discuss my project focused on showcasing Canberra's artistic culture through a website. This report outlines the design process and methodologies employed to effectively present these artworks.
 
-** Website Theme **
+**Website Theme**
 Selecting an appropriate theme and color palette is crucial for a website's success. For our art-focused site, aimed at mature adults, art students, and enthusiasts, we chose a clean, simple aesthetic to appeal to our target audience.
 
 **Welcome Page.**
@@ -64,7 +64,7 @@ Then body focuses on the main information regarding the site. It is also centred
 
 At end of our page, it included a clean and modern footer. Sharing the link to social media.
 
-** Conclusion **
+**Conclusion**
 The project culminates with a footer that ties together the website's design elements and provides social media links for further engagement. This cohesive design approach ensures the artwork is showcased effectively while maintaining a user-friendly experience.
 
 
